@@ -4,7 +4,7 @@ const totalCards = 55;
 const cardsPerDay = 11;
 
 // const currentDate = new Date().toString();
-const currentDate = "Wed";
+const currentDate = "Mon";
 //Sat Jun 15 2024 23:52:50 GMT+0300 (Arabian Standard Time)// creating image path object
 
 let uxCards = {};
